@@ -11,9 +11,10 @@ public class CountLetter {
         String str=sc.nextLine();
         System.out.println("Nhap ki tu can kiem tra:");
         String letter=sc.nextLine();
+        char x = letter.charAt(0);
         int count=0;
         for(int i=0;i<str.length();i++){
-            if(letter.equals((str.charAt(i)+""))){
+            if(x==str.charAt(i)){
                 count++;
             }
         }

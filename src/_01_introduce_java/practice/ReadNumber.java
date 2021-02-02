@@ -12,6 +12,9 @@ public class ReadNumber {
         Scanner myNum = new Scanner(System.in);
         System.out.println("enter number:");
         number = myNum.nextInt();
+        //a=321;
+        /* a
+        * */
         flag1 = number % 10;
         number = number - flag1;
         flag2 = (number % 100) / 10;

@@ -1,6 +1,8 @@
 package _07_acstract_interface.exercise.resizeable;
 
-public class Square {
+import _06_inheritance.practice.practice2.Shape;
+
+public class Square extends Shape {
     public double side;
 
     public Square(double side) {
@@ -24,5 +26,9 @@ public class Square {
 
     public double areaSquare(){
         return side*side;
+    }
+
+    public double getArea() {
+        return Math.pow(side,2);
     }
 }

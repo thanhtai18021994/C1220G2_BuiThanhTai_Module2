@@ -2,7 +2,7 @@ package _06_inheritance.excercise.model_excercise4;
 
 import java.util.Scanner;
 
-public class Triangle extends Shape {
+public class Triangle extends Shape2 {
     private double side1 = 1.0;
     private double side2 = 1.0;
     private double side3 = 1.0;

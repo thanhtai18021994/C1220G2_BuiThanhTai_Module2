@@ -1,4 +1,4 @@
-package _06_inheritance.practice.model2;
+package _06_inheritance.practice.practice2;
 
 public class Circle extends Shape {
     private double radius = 1.0;
@@ -9,7 +9,7 @@ public class Circle extends Shape {
     }
 
     public Circle(double radius) {
-
+        this.radius = radius;
     }
 
     public Circle(double radius, boolean filled, String color) {
@@ -38,10 +38,10 @@ public class Circle extends Shape {
     }
 
     public static void main(String[] args) {
-        Circle circle=new Circle();
+        Circle circle = new Circle();
         System.out.println(circle);
-        circle =new Circle(3.5);
-        circle=new Circle(3.5,true,"blue");
+        circle = new Circle(3.5);
+        circle = new Circle(3.5, true, "blue");
         System.out.println(circle);
     }
 

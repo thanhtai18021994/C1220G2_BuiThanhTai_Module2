@@ -1,8 +1,8 @@
 package _06_inheritance.excercise.model_excercise1;
 
 public class Circel {
-    private double radius=1.0;
-    private String color="red";
+    private double radius = 1.0;
+    private String color = "red";
 
     public Circel() {
 
@@ -17,6 +17,7 @@ public class Circel {
     }
 
     public Circel(double radius) {
+        this.radius=radius;
     }
 
     public double getRadius() {
@@ -34,9 +35,10 @@ public class Circel {
     public void setColor(String color) {
         this.color = color;
     }
-     public double area(){
-        return Math.pow(radius,2)*3.14;
-     }
+
+    public double area() {
+        return Math.pow(radius, 2) * 3.14;
+    }
 
     @Override
     public String toString() {

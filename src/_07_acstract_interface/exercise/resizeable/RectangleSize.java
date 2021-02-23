@@ -1,6 +1,6 @@
 package _07_acstract_interface.exercise.resizeable;
 
-import _06_inheritance.practice.model2.Rectangle;
+import _06_inheritance.practice.practice2.Rectangle;
 
 public class RectangleSize extends Rectangle implements Resizeable {
     public RectangleSize() {

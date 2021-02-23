@@ -1,6 +1,6 @@
-package _06_inheritance.practice.model2;
+package _06_inheritance.practice.practice2;
 
-public class Shape {
+public abstract class Shape {
     private String color = "green";
     private boolean filled = true;
 
@@ -13,6 +13,7 @@ public class Shape {
         this.color=color;
         this.filled=filled;
     }
+    public abstract double getArea();
 
     public void setColor(String color) {
         this.color = color;
@@ -39,12 +40,5 @@ public class Shape {
                 '}';
     }
 
-    public static void main(String[] args) {
-        Shape shape = new Shape();
-        System.out.println(shape);
-        shape=new Shape("green",true);
-        System.out.println(shape);
-
-    }
 
 }

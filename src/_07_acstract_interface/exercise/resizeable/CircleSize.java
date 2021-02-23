@@ -1,25 +1,20 @@
 package _07_acstract_interface.exercise.resizeable;
+import _06_inheritance.practice.practice2.Circle;
 
-import _06_inheritance.excercise.model_excercise1.Circel;
-
-public class CircleSize extends Circel implements Resizeable {
+public class CircleSize extends Circle implements Resizeable {
     public CircleSize() {
-    }
-
-    public CircleSize(double radius, String color) {
-        super(radius, color);
-    }
-
-    public CircleSize(double radius, String color, boolean filled) {
-        super(radius, color, filled);
     }
 
     public CircleSize(double radius) {
         super(radius);
     }
 
-    @Override
+    public CircleSize(double radius, boolean filled, String color) {
+        super(radius, filled, color);
+    }
+
     public void resize(double percent) {
-        setRadius(getRadius() * percent);
+        double newRadius = getRadius() * percent;
+        setRadius(newRadius);
     }
 }

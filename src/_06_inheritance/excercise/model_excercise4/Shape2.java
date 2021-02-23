@@ -1,12 +1,12 @@
 package _06_inheritance.excercise.model_excercise4;
 
-public class Shape {
+public class Shape2 {
     private String color="red";
 
-    public Shape(String color) {
+    public Shape2(String color) {
         this.color = color;
     }
-    public Shape(){
+    public Shape2(){
     }
 
     public String getColor() {

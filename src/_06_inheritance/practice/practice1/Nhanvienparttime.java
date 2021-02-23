@@ -1,4 +1,4 @@
-package _06_inheritance.practice.model;
+package _06_inheritance.practice.practice1;
 
 public class Nhanvienparttime extends NhanVien {
     int gioLamviec;

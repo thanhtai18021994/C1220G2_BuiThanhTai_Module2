@@ -18,6 +18,7 @@ public class MovablePoint extends Point2D {
     }
 
     public MovablePoint() {
+
     }
 
     public float getxSpeed() {
@@ -49,15 +50,33 @@ public class MovablePoint extends Point2D {
     }
 
     public MovablePoint move() {
+        float newX = getX() + xSpeed;
+        float newY = getY() + ySpeed;
+        setX(newX);
+        setY(newY);
         return this;
     }
-
+    public void move2() {
+        float newX = getX() + xSpeed;
+        float newY = getY() + ySpeed;
+        setX(newX);
+        setY(newY);
+    }
     @Override
     public String toString() {
         return super.toString() + "MovablePoint{" +
                 "xSpeed=" + xSpeed +
                 ", ySpeed=" + ySpeed +
                 '}';
+    }
+
+    public static void main(String[] args) {
+        MovablePoint movablePoint = new MovablePoint(2, 4, 6, 8);
+        System.out.println(movablePoint.getX());
+//        movablePoint.move();
+//        System.out.println(movablePoint.getX());
+        movablePoint.move2();
+        System.out.println(movablePoint.getX());
     }
 
 }

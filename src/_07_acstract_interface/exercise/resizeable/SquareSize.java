@@ -6,6 +6,7 @@ public class SquareSize extends Square implements Resizeable {
     }
     @Override
     public void resize(double percent) {
-        setSide(getSide()*percent);
+        double newSide=getSide()*percent;
+        setSide(newSide);
     }
 }

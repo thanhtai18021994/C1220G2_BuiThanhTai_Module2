@@ -1,8 +1,6 @@
-package _010_stack_queue.optional.optionnal_2;
+package _010_stack_queue.optional.optional_2;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
 import java.util.Stack;
 
 public class Binary {

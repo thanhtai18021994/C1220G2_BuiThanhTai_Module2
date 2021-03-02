@@ -36,5 +36,10 @@ public class MapTest {
         for(String value:treeMap.values()){
             System.out.println("key"+value);
         }
+//        get entry
+        for(Map.Entry<Integer, String> entry: treeMap.entrySet()){
+            System.out.println(entry);
+        }
+        System.out.println(treeMap.get(1));
     }
 }

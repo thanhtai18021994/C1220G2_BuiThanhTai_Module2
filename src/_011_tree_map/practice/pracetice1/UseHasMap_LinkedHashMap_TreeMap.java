@@ -1,8 +1,6 @@
 package _011_tree_map.practice.pracetice1;
 
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.TreeMap;
 
 public class UseHasMap_LinkedHashMap_TreeMap {
@@ -28,7 +26,6 @@ public class UseHasMap_LinkedHashMap_TreeMap {
         System.out.println(Linkedmap);
         System.out.println("This is treemap");
         System.out.println(treemap);
-
 
     }
 

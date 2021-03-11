@@ -16,16 +16,19 @@ public class IllegalTriangleException extends Exception {
     }
     public static void checkSide(double side1,double side2,double side3) throws IllegalTriangleException{
         try{
+            if(side1<0||side2<0||side3<0){
+                throw new IllegalTriangleException("side need >0!!!!");
+            }
             if (side1 + side3 <= side2 || side1 + side2 <= side3 || side2 + side3 <= side1) {
                 throw new IllegalTriangleException("Invalid side");
             }
+
         }catch (InputMismatchException e){
             throw new IllegalTriangleException("side is number");
         }
     }
 
     public static void main(String[] args) {
-
         try{
             Scanner scanner=new Scanner(System.in);
             double side1=scanner.nextDouble();

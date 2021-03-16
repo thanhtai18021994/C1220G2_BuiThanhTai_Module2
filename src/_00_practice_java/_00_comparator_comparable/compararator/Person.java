@@ -1,6 +1,8 @@
 package _00_practice_java._00_comparator_comparable.compararator;
 
-public class Person {
+import java.util.Objects;
+
+public class Person implements Comparable<Person> {
     private int id;
     private String name;
     private int age;
@@ -39,11 +41,29 @@ public class Person {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Person)) return false;
+        Person person = (Person) o;
+        return Objects.equals(getName(), person.getName());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getName());
+    }
+
+    @Override
     public String toString() {
         return "Person{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    @Override
+    public int compareTo(Person o) {
+        return getName().compareTo(o.getName());
     }
 }

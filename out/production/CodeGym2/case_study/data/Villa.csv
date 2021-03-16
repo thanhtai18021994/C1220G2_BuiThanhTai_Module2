@@ -1,0 +1,2 @@
+Services{id='SVVI-1234', nameService='Villa', areaRoom=34.0, price=23.0, people_in_room=12, dateRent='45'}Villa{roomStandar='Villadds', dicription_other_service='Sradd', arePool=345.0, floor=23}
+Services{id='SVVI-1256', nameService='Villa', areaRoom=34.0, price=45.0, people_in_room=12, dateRent='34'}Villa{roomStandar='Sdddddd', dicription_other_service='Sddddd', arePool=67.0, floor=123}

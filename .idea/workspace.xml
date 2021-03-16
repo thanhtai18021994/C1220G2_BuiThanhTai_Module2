@@ -2,44 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="388e08e0-a32e-4097-b86d-26b3517a8b25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/TestOverRide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/SortID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/SortName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex1/file_test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex1/file_test/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex1/file_test/student.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex1/file_test/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex1/file_test/studentmanager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex2/Ex22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex2/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/ex2/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/excercise/excercise1/IOFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/excercise/excercise1/SourceFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/excercise/excercise1/TargetFile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice1/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice2/FileData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice2/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice2/StreamFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_15_io_file/practice/practice2/fileMy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_byte_stream/excercise/ByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_byte_stream/excercise/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_16_byte_stream/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice1/RegexEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/TestRegex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/TestSpilid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/casting/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/casting/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/casting/TestCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/iofile/ByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/iofile/characterfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/iofile/file1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/iofile/file2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/testException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/test_stream/FileTest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/test_stream/ListFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/test_stream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/test_stream/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/test_stream/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_practice_java/treeset/TestTreeset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/excercise/excercise1/ValidateNameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/excercise/excercise2/ValidateNumberPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/optional/CrawlNews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice2/ValidateEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice2/ValidateEmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice3/ValidateAcount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice3/ValidateEmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_string_regex/practice/practice4/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_review_oop/lap_3/Bill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_review_oop/lap_3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_review_oop/lap_3/FruitManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_review_oop/lap_3/TestFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/CustumerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/CustumerSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/IOFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/ValidateCustumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/common/ValidateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/controller/CustumerManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/controller/HouseManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/controller/RoomManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/controller/ServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/controller/VillaManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/data/House.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/data/Room.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/data/Villa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/model/Custumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/model/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/model/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/model/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/case_study/model/Villa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/_00_practice_java/ex2/PersonControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeGym2/_00_practice_java/ex2/PersonControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/_00_practice_java/ex2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/_14_exception_debug/excercise/IllegalTriangleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeGym2/_14_exception_debug/excercise/IllegalTriangleException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/_14_exception_debug/practice/practice1/LinearEquationResolve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeGym2/_14_exception_debug/practice/practice1/LinearEquationResolve.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_practice_java/ex2/PersonControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_practice_java/ex2/PersonControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_practice_java/ex2/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_14_exception_debug/excercise/IllegalTriangleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_exception_debug/excercise/IllegalTriangleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_14_exception_debug/practice/practice1/LinearEquationResolve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14_exception_debug/practice/practice1/LinearEquationResolve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/META-INF/CodeGym2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeGym2/_00_practice_java/_00_comparator_comparable/compararator/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeGym2/_00_practice_java/_00_comparator_comparable/compararator/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_practice_java/_00_comparator_comparable/compararator/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,20 +85,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/binary_file" />
+    <property name="last.edited.regexp" value="class=&quot;name_song&quot; title=&quot;Tình Bạn Diệu Kỳ - Ricky Star, Lăng LD, AMee&quot; onclick=&quot; _gaq.push(['_trackEvent', 'Home', 'Click', 'Bai Hat Moi']);lt(['home','bai-hat-moi','click','song','SgXWolUyq8Dp','','title']);&quot; &gt;Tình Bạn Diệu Kỳ&lt;/a&gt;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CaseStudy2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="_14_exception_debug.practice.practice1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestOverRide">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_00_practice_java._00_comparator_comparable.compararator.Main" />
+  <component name="RunManager" selected="Application.CustumerManage">
+    <configuration name="CustumerManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="case_study.controller.CustumerManage" />
       <module name="CodeGym2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_00_practice_java._00_comparator_comparable.compararator.*" />
+          <option name="PATTERN" value="case_study.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_00_practice_java._00_comparator_comparable.compararator.Main2" />
+    <configuration name="HouseManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="case_study.controller.HouseManage" />
       <module name="CodeGym2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_00_practice_java._00_comparator_comparable.compararator.*" />
+          <option name="PATTERN" value="case_study.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegexEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_18_string_regex.practice.practice1.RegexEmail" />
+    <configuration name="ServiceController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="case_study.controller.ServiceController" />
       <module name="CodeGym2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_18_string_regex.practice.practice1.*" />
+          <option name="PATTERN" value="case_study.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOverRide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_00_practice_java.TestOverRide" />
+    <configuration name="TestSpilid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_00_practice_java.TestSpilid" />
       <module name="CodeGym2" />
       <extension name="coverage">
         <pattern>
@@ -130,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_00_practice_java._00_comparator_comparable.TestStatic" />
+    <configuration name="VillaManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="case_study.controller.VillaManage" />
       <module name="CodeGym2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_00_practice_java._00_comparator_comparable.*" />
+          <option name="PATTERN" value="case_study.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestOverRide" />
-        <item itemvalue="Application.TestStatic" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RegexEmail" />
+        <item itemvalue="Application.CustumerManage" />
+        <item itemvalue="Application.VillaManage" />
+        <item itemvalue="Application.TestSpilid" />
+        <item itemvalue="Application.ServiceController" />
+        <item itemvalue="Application.HouseManage" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +185,18 @@
       <workItem from="1615174330238" duration="13123000" />
       <workItem from="1615241466270" duration="3009000" />
       <workItem from="1615254049186" duration="38106000" />
-      <workItem from="1615414869998" duration="4991000" />
+      <workItem from="1615414869998" duration="21353000" />
+      <workItem from="1615462897317" duration="818000" />
+      <workItem from="1615502539583" duration="3949000" />
+      <workItem from="1615519844831" duration="466000" />
+      <workItem from="1615536343425" duration="607000" />
+      <workItem from="1615602466483" duration="3163000" />
+      <workItem from="1615642941617" duration="1050000" />
+      <workItem from="1615682571133" duration="3788000" />
+      <workItem from="1615736392793" duration="2475000" />
+      <workItem from="1615777293629" duration="22083000" />
+      <workItem from="1615803398937" duration="120000" />
+      <workItem from="1615859325171" duration="20318000" />
     </task>
     <servers />
   </component>
@@ -181,66 +208,70 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615198521691" />
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615358772047">
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615604549576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615358772047" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1615423218569">
+    <state x="543" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615604549576" />
+    <state x="784" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1615885525961">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615423218569" />
-    <state x="557" y="208" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615247009028">
+    <state x="784" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615885525961" />
+    <state x="557" y="144" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615738203638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="557" y="208" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1615247009028" />
+    <state x="557" y="144" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1615738203638" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615284894955">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1615284894955" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615361635433">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615865354409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615361635433" />
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1615423221876">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615865354409" />
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1615867745957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615423221876" />
-    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1615423221876">
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615867745957" />
+    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1615867745957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615423221876" />
-    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1615423221876">
+    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615867745957" />
+    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1615867745957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615423221876" />
-    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1615423221876">
+    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615867745957" />
+    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1615867745957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615423221876" />
-    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1615347257488">
+    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615867745957" />
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom" timestamp="1615787830767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615347257488" />
-    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1615347257488">
+    <state width="1493" height="254" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615787830767" />
+    <state width="1493" height="254" key="GridCell.Tab.1.center" timestamp="1615787830767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615347257488" />
-    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1615347257488">
+    <state width="1493" height="254" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1615787830767" />
+    <state width="1493" height="254" key="GridCell.Tab.1.left" timestamp="1615787830766">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615347257488" />
-    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1615347257488">
+    <state width="1493" height="254" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1615787830766" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right" timestamp="1615787830767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615347257488" />
+    <state width="1493" height="254" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1615787830767" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1615456939228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1615456939228" />
     <state x="317" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615261230616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="317" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1615261230616" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615351741354">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615798643284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615351741354" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615798643284" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -269,6 +300,16 @@
           <url>file://$PROJECT_DIR$/src/_011_tree_map/excercise/excercise_1/ProductManage.java</url>
           <line>65</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_18_string_regex/practice/practice4/CrawlSongExample.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_00_practice_java/TestRegex.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
